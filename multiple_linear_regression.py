@@ -2,7 +2,7 @@
 """
 Created on Fri Dec  8 19:47:31 2017
 
-@author: aksha
+@author: Aksharaa Sundarrajan
 """
 
 #Importing the library
